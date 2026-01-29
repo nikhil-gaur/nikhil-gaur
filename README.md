@@ -2,5 +2,5 @@
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any project in frontend development
-- 📫 You can reach out to me at gaur.jecrc@gmail.com ...
+- 📫 You can reach out to me at nikhilgaur107@gmail.com ...
 
